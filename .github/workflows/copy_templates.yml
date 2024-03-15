@@ -15,5 +15,5 @@ jobs:
           github_token: ${{ secrets.JOVI_TOKEN }}
           patterns_to_include: '.github/ISSUE_TEMPLATE'
           patterns_to_ignore: '.github/workflows/copy_templates.yml'
-          topics_to_include: test-article
+          topics_to_include: article
           commit_message: "update issue templates"
