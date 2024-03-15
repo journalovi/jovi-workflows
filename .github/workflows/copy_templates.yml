@@ -3,6 +3,9 @@ name: Copy templates
 on:
   push:
     branches: [ main ]
+    paths:
+      - '.github/workflows/**'
+      - '.github/ISSUE_TEMPLATE/**'
   workflow_dispatch:
 
 jobs:
