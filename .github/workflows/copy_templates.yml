@@ -13,7 +13,7 @@ jobs:
       - uses: journalovi/manage-files-in-multiple-repositories@main
         with:
           github_token: ${{ secrets.JOVI_TOKEN }}
-          patterns_to_include: '.github/ISSUE_TEMPLATE/accessibility.yml,.github/ISSUE_TEMPLATE/initial-editor-checklist.md,.github/ISSUE_TEMPLATE/review.yml'
+          patterns_to_include: '.github/ISSUE_TEMPLATE'
           patterns_to_ignore: '.github/workflows/copy_templates.yml'
           topics_to_include: article
           commit_message: "update issue templates"
