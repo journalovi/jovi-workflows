@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: journalovi/manage-files-in-multiple-repositories@main
         with:
-          github_token: ${{ secrets.JOVI_TOKEN }}
+          github_token: ${{ secrets.JOVI_COMMIT_TOKEN }}
           patterns_to_include: '.github/ISSUE_TEMPLATE'
           patterns_to_ignore: '.github/workflows/copy_templates.yml'
           topics_to_include: article
