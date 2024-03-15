@@ -12,8 +12,8 @@ Should this token need to be re-generated, here are the steps to do so:
 
 1. A member of the `journalovi` Github organization with commit access to all `journalovi` repos must generate a "Fine-grained Personal Access Token" for the `journalovi` organization:
    1. Click on your profile icon and go to [Settings -> Developer Settings -> Personal Access Tokens](https://github.com/settings/tokens)
-   2. Click on "Fine-grained tokens"
-   3. Click "Generate New Token"
+   2. Click on **Fine-grained tokens**
+   3. Click **Generate New Token**
    4. Give it the name `JOVI_COMMIT_TOKEN` and a description like "Commit access token for JOVI repos"
    5. Pick a suitable expiration date (e.g. a year in the future)
    6. Set **Resource Owner** to `journalovi`
@@ -24,8 +24,10 @@ Should this token need to be re-generated, here are the steps to do so:
       - Contents
       - Pull requests
       - Workflows
-   9. **Leave this window open**
+   9. Create the token
+   10. **Leave this window open** (if you close the window without copying the contents of the token, you will have to re-create it)
 2. On the `journalovi/workflows` repository, go to [Settings -> Secrets and variables -> Actions](https://github.com/journalovi/jovi-workflows/settings/secrets/actions)
    1. Under **Repository Secrets**, click **New Repository Secret**.
    2. Name the secret `JOVI_COMMIT_TOKEN` and copy and paste the contents of the Personal Access token you created above into it.
+   3. Save the secret
 
