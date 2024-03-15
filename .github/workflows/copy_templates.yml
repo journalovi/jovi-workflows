@@ -1,0 +1,19 @@
+name: Copy templates
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  replicate_changes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: journalovi/manage-files-in-multiple-repositories@main
+        with:
+          github_token: ${{ secrets.JOVI_TOKEN }}
+          patterns_to_include: '.github/ISSUE_TEMPLATE'
+          patterns_to_ignore: '.github/workflows/copy_templates.yml'
+          topics_to_include: test-article
+          commit_message: "update issue templates"
