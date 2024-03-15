@@ -7,7 +7,6 @@ assignees: ''
 
 ---
 
-- [ ] Check that the HTML version is in the repo as index.html and renders to the JoVI format (refer to https://github.com/journalovi/jovi-template-quarto)
 - [ ] Article uses a format something similar to the template
 - [ ] Includes author information
 - [ ] Includes abstract
