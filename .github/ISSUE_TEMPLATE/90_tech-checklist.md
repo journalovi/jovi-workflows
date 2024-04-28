@@ -1,5 +1,5 @@
 ---
-name: [Tech Chair] Infrastructure Setup Checklist
+name: "[Tech Chair] Infrastructure Setup Checklist"
 about: Checklist for Tech chair to fill out to set up repository
 title: "[PRE-REVIEW] Infrastructure Setup Checklist"
 labels: pre-review
