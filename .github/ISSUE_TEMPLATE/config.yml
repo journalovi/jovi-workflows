@@ -1,5 +1,10 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Test
-    url: ../
-    about: Open a simple issue
+  - name: JoVI Experimental Track
+    url: https://www.journalovi.org/submit.html#experimental
+    about: |
+      This paper is a part of the Experimental ("Github") review track at JoVI.
+      We welcome both solicited and unsolicited reviews, either as complete
+      reviews (created using "[Reviewer] Review" template below) or as smaller
+      issues about specific aspects of the paper, created using a normal
+      Github issue. For more information, see the JoVI website.
