@@ -5,10 +5,10 @@
 ## changed, so any other edits will be overwritten. To update this file, make
 ## a commit or pull request at https://github.com/journalovi/jovi-workflows
 
-name: Review
+name: "[Reviewer] Review"
 description: Provide a review for this paper
 title: "[REVIEW] <title>"
-labels: [Review]
+labels: [review]
 body:
 - type: markdown
   attributes:

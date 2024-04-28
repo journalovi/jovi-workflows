@@ -5,10 +5,10 @@
 ## changed, so any other edits will be overwritten. To update this file, make
 ## a commit or pull request at https://github.com/journalovi/jovi-workflows
 
-name: Accessibility Review
+name: "[Accessibility Chair] Accessibility Review"
 description: Provide an accessibility review for this paper
-title: "[REVIEW] [Accessibility] <title>"
-labels: [Review]
+title: "[REVIEW] [Accessibility]"
+labels: [review]
 body:
 - type: markdown
   attributes:
