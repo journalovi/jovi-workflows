@@ -15,7 +15,7 @@ assignees: ''
 ## a commit or pull request at https://github.com/journalovi/jovi-workflows
 -->
 
-Instructions for AE:
+Instructions for Editor:
 - If there is anything in the list below that you are unsure of, you can reply to this issue (after you created it) and tag the responsible organizers. Organizers' Github IDs are listed on [People page](https://www.journalovi.org/people.html).
 - Close this issue when all items are complete.
 
