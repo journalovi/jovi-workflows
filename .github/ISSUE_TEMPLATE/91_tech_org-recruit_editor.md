@@ -16,8 +16,8 @@ assignees: ''
 -->
 
 Instructions for OC:
-- If there is anything in the list below that you are unsure of, tag the Tech Chair. Github IDs are listed on [People page](https://www.journalovi.org/people.html).
-- Close this issue when all items are complete.
+> - If there is anything in the list below that you are unsure of, tag the Tech Chair. Github IDs are listed on [People page](https://www.journalovi.org/people.html).
+> - Close this issue when all items are complete.
 
 - [ ] Add paper to the AE recruitment spreadsheet
 - [ ] Post abstract, author names, link to paper, and a rough summary of the paper application domain and method, and a reminder to check the [ACM COI policy](https://www.acm.org/publications/policies/conflict-of-interest) to:
