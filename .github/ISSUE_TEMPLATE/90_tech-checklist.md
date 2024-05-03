@@ -33,7 +33,7 @@ assignees: ''
       - [ ] Verify the compilation works. On the repo page, go to Actions and click on the "XXX Publish" (XXX = Quarto/Idyll/etc) workflow on the left, then click Run Workflow and run it.
    - [ ] Verify that the "pages build and deployment" action is successful.
    - [ ] Check that the live version of the article is visible at http://www.journalovi.org/20XX-YY-ZZ (replace the last part with the repo name).
-- [ ] Ensure the paper contains a notice infobox at the top that the paper is under review and that the repository links in the notice are correct.
+- [ ] Ensure the paper contains a notice infobox at the top that the paper is under review and that the repository links in the notice are correct (by replacing the `20xx-repo-name` part with the repository name).
 
    In Quarto this looks like:
 
@@ -47,7 +47,7 @@ assignees: ''
    In HTML this could be:
 
    ```
-   <p><strong>Under Review:</strong> This paper is <a href="https://www.journalovi.org/under-review.html">under review</a> on the experimental track of the <a href="https://www.journalovi.org/">Journal of Visualization and Interaction</a>. See the <a href="">reviewing process</a>.</p>
+   <p><strong>Under Review:</strong> This paper is <a href="https://www.journalovi.org/under-review.html">under review</a> on the experimental track of the <a href="https://www.journalovi.org/">Journal of Visualization and Interaction</a>. See the <a href="https://github.com/journalovi/20xx-repo-name/issues">reviewing process</a>.</p>
    ```
    - [ ] In the info box, ensure “20xx-repo-name” is replaced with the name of the repository so that the link points to the Issues page on Github.
    - [ ] Check that the live version of the paper now has the infobox in it with the correct links. You may need to go to the Actions page to check that the build process has completed, then go back to the live paper URL. You might need to reload the article without cache (In Chrome: Cmd + Shift + R (Mac) or Ctrl+ Shift + R (Windows)).
