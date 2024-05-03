@@ -16,11 +16,11 @@ assignees: ''
 -->
 
 Instructions for AE:
-- Send out review requests using the [reviewer invitation email template](https://docs.google.com/document/d/15ttXvQg7g5JEk2Yzfd9eXSN6oIpc_A61qbuwygthuG0/edit?usp=sharing).
-- When a reviewer agrees to review:
-   1. Create an issue using the *Review Request* Issue template and assign it to the reviewer.
-   2. Check off one of the boxes below and notify your corresponding organizer on the paper Slack channel (or tag them here).
-- Close this issue when all reviewers have been recruited.
+> - Send out review requests using the [reviewer invitation email template](https://docs.google.com/document/d/15ttXvQg7g5JEk2Yzfd9eXSN6oIpc_A61qbuwygthuG0/edit?usp=sharing).
+> - When a reviewer agrees to review:
+>    1. Create an issue using the *Review Request* Issue template and assign it to the reviewer.
+>    2. Check off one of the boxes below and notify your corresponding organizer on the paper Slack channel (or tag them here).
+> - Close this issue when all reviewers have been recruited.
 
 - [ ] Reviewer 1 recruited and review request issue created for them.
 - [ ] Reviewer 2 recruited and review request issue created for them.
