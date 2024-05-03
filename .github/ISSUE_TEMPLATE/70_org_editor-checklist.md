@@ -16,11 +16,11 @@ assignees: ''
 -->
 
 Instructions for Editor:
-- If there is anything in the list below that you are unsure of, you can reply to this issue (after you created it) and tag the responsible organizers. Organizers' Github IDs are listed on [People page](https://www.journalovi.org/people.html).
-- Close this issue when all items are complete.
+> - If there is anything in the list below that you are unsure of, you can reply to this issue (after you created it) and tag the responsible organizers. Organizers' Github IDs are listed on [People page](https://www.journalovi.org/people.html).
+> - Close this issue when all items are complete.
 
 - [ ] Check that the live version of the article contains at least the following information:
-   - [ ] Includes author information
+- [ ] Includes author information
    - [ ] Includes abstract
    - [ ] Includes structure that gives readers an overview and facilitates navigation, such as:
       - [ ] Table of contents (if the article is text-intensive)
