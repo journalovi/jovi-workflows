@@ -16,13 +16,6 @@ assignees: ''
 -->
 
 - [ ] Set up Github pages
-   - [ ] Under **Settings -> Actions -> General**:
-      - [ ] Check "Allow journalovi, and select non-journalovi, actions".
-      - [ ] Under "Allow specified actions and reusable workflows", enter:
-         ```
-         actions/*,quarto-dev/*
-         ```
-         !image
    - [ ] If the paper is static HTML and does not require compilation:
       - [ ] ensure the paper contents are in `index.html` in the root folder of the repository
       - [ ] Go to **Settings -> Pages**:
@@ -87,4 +80,3 @@ assignees: ''
    - [ ] Recruit Associate Editor (assign to the OC of this paper)
    - [ ] Open Materials Review (assign to the Open Materials Chair)
    - [ ] Accessibility Review Request (assign to the Accessibility Chair)
-
