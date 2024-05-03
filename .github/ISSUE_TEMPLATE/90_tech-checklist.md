@@ -32,10 +32,7 @@ assignees: ''
          - [ ] Set the folder to "/"
       - [ ] Verify the compilation works. On the repo page, go to Actions and click on the "XXX Publish" (XXX = Quarto/Idyll/etc) workflow on the left, then click Run Workflow and run it.
    - [ ] Verify that the "pages build and deployment" action is successful.
-
    - [ ] Check that the live version of the article is visible at http://www.journalovi.org/20XX-YY-ZZ (replace the last part with the repo name).
-
-
 - [ ] Ensure the paper contains a notice infobox at the top that the paper is under review and that the repository links in the notice are correct.
 
    In Quarto this looks like:
@@ -52,7 +49,6 @@ assignees: ''
    ```
    <p><strong>Under Review:</strong> This paper is <a href="https://www.journalovi.org/under-review.html">under review</a> on the experimental track of the <a href="https://www.journalovi.org/">Journal of Visualization and Interaction</a>. See the <a href="">reviewing process</a>.</p>
    ```
-
    - [ ] In the info box, ensure “20xx-repo-name” is replaced with the name of the repository so that the link points to the Issues page on Github.
    - [ ] Check that the live version of the paper now has the infobox in it with the correct links. You may need to go to the Actions page to check that the build process has completed, then go back to the live paper URL. You might need to reload the article without cache (In Chrome: Cmd + Shift + R (Mac) or Ctrl+ Shift + R (Windows)).
 - [ ] Compare the paper with the authors’ compiled version that the authors submitted. Sample the figures and interactive elements to see if they are present and work in the same way.
@@ -60,7 +56,6 @@ assignees: ''
    - [ ] Under "Description" enter "UNDER REVIEW"
    - [ ] Under "Website" tick "Use Your Github Pages Website".
    - [ ] Click “Save changes”
-
 - [ ] Edit README.md and add the following at the very top:
    ````
    ```diff
