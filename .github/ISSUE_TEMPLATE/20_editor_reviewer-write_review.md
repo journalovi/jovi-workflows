@@ -16,8 +16,8 @@ assignees: ''
 -->
 
 Instructions for Reviewer:
-- Use the [Review Issue Template](new?labels=review&template=00_reviewer-review.yml&title=%5BREVIEW%5D+%3Ctitle%3E) to write and submit your review.
-- Please complete your review *within 6 weeks* of the date you agreed to review.
+> - Use the [Review Issue Template](new?labels=review&template=00_reviewer-review.yml&title=%5BREVIEW%5D+%3Ctitle%3E) to write and submit your review.
+> - Please complete your review *within 6 weeks* of the date you agreed to review.
 
 Instructions for Editor:
-- Close this issue once the reviewer has submitted their review.
+> - Close this issue once the reviewer has submitted their review.
