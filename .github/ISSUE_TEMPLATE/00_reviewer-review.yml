@@ -13,8 +13,9 @@ body:
 - type: markdown
   attributes:
     value: >
-      Please read the [JoVI Reviewer Guidelines](https://www.journalovi.org/reviewer-guide.html)
-      before writing your review.
+      > [!IMPORTANT]
+      > Please read the [JoVI Reviewer Guidelines](https://www.journalovi.org/reviewer-guide.html)
+      > before writing your review.
 
 
       As this is the [experimental track](https://www.journalovi.org/submit.html#experimental),
