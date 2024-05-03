@@ -15,11 +15,12 @@ assignees: ''
 ## a commit or pull request at https://github.com/journalovi/jovi-workflows
 -->
 
-Instructions for Open Materials Chair:
+### Instructions for Open Practices Chair
 - If there is anything in the list below that you are unsure of, you can reply to this issue (after it has been created) and tag the responsible organizers. Organizers' Github IDs are listed on [People page](https://www.journalovi.org/people.html).
 - If anything in the below list is missing (e.g. required paper sections, supplemental materials, etc), tag the authors on this issue and ask them to add those materials.
 - Once authors have provided any missing material (or if no material is missing) and all requirements are met, close this issue.
 
+### Open Materials Checklist
 - [ ] Check that the paper license is CC-BY
 - [ ] Check that the “Research materials” section in the paper exists.
 - [ ] Check that all links to repositories and materials can be reached.
