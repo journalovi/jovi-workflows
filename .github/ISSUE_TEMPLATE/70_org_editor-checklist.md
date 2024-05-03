@@ -15,23 +15,23 @@ assignees: ''
 ## a commit or pull request at https://github.com/journalovi/jovi-workflows
 -->
 
-Instructions for Editor:
-> - If there is anything in the list below that you are unsure of, you can reply to this issue (after you created it) and tag the responsible organizers. Organizers' Github IDs are listed on [People page](https://www.journalovi.org/people.html).
-> - Close this issue when all items are complete.
+### Instructions for Editor
+- If there is anything in the list below that you are unsure of, you can reply to this issue (after you created it) and tag the responsible organizers. Organizers' Github IDs are listed on [People page](https://www.journalovi.org/people.html).
+- Close this issue when all items are complete.
 
-- [ ] Check that the live version of the article contains at least the following information:
+### Check that the live version of the article contains at least the following information:
 - [ ] Includes author information
-   - [ ] Includes abstract
-   - [ ] Includes structure that gives readers an overview and facilitates navigation, such as:
-      - [ ] Table of contents (if the article is text-intensive)
-      - [ ] Link or buttons to different parts of the paper or switching between paper-mode vs. interactive mode
-      - [ ] Some articles (e.g,. narrative visualization) might lend itself to be progressively disclosed without an overview
-   - [ ] Includes the following required sections at the end of the paper, after References:
-      - [ ] Research materials
-      - [ ] Authorship
-      - [ ] License
-      - [ ] Conflicts of Interest
+- [ ] Includes abstract
+- [ ] Includes structure that gives readers an overview and facilitates navigation, such as:
+   - [ ] Table of contents (if the article is text-intensive)
+   - [ ] Link or buttons to different parts of the paper or switching between paper-mode vs. interactive mode
+   - [ ] Some articles (e.g,. narrative visualization) might lend itself to be progressively disclosed without an overview
+- [ ] Includes the following required sections at the end of the paper, after References:
+   - [ ] Research materials
+   - [ ] Authorship
+   - [ ] License
+   - [ ] Conflicts of Interest
 
 
-When the above checklist is complete:
+### When the above checklist is complete:
 - [ ] Respond to authors with initial submission email (cc organizers@journalovi.org): https://docs.google.com/document/d/1OY9Qar7etGE0e300lxBf7b3nVzTPlCehLmbqIH2v2kc/edit
