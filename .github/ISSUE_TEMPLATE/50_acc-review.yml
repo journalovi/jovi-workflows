@@ -13,19 +13,27 @@ body:
 - type: markdown
   attributes:
     value: >
-      Please read the [JoVI Reviewer Guidelines](https://www.journalovi.org/reviewer-guide.html)
+      > [!IMPORTANT]
+      
+      > Please read the [JoVI Reviewer Guidelines](https://www.journalovi.org/reviewer-guide.html)
       before writing your review.
 
-      This review checks for accessibility issues in the paper and helps authors to make their findings readable by
+      >
+
+      > This review checks for accessibility issues in the paper and helps authors to make their findings readable by
       anyone. This review checklist is by no means complete and largely based on
       [Chartability](https://chartability.github.io/POUR-CAF/). Chartability also has links to relevant resources and
       tools for the checks below.
 
-      Remember that this accessibility review is not here to find reasons to reject the paper but to help the authors
+      >
+
+      > Remember that this accessibility review is not here to find reasons to reject the paper but to help the authors
       make it accessible for everyone. In the comment section, add suggestions for making improvements and if you can,
       link to good examples.
 
-      If you did not test a particular item or it is not applicable, do not check it off and explain in the comments.
+      >
+
+      > If you did not test a particular item or it is not applicable, do not check it off and explain in the comments.
 - type: textarea
   attributes:
     label: Reviewed version
