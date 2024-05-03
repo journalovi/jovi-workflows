@@ -22,6 +22,7 @@ assignees: ''
   2. Check off one of the boxes below and notify your corresponding organizer on the paper Slack channel (or tag them here).
 - Close this issue when all reviewers have been recruited.
 
+### Recruit reviewers:
 - [ ] Reviewer 1 recruited and review request issue created for them.
 - [ ] Reviewer 2 recruited and review request issue created for them.
 - [ ] Reviewer 3 recruited and review request issue created for them.
