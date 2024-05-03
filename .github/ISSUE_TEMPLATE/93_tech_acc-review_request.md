@@ -15,6 +15,6 @@ assignees: ''
 ## a commit or pull request at https://github.com/journalovi/jovi-workflows
 -->
 
-Instructions for Accessibility Chair:
+### Instructions for Accessibility Chair
 - Please fill out the Accessibility Review issue template and submit it as a review on this repository.
 - Once you have created the Accessibility Review issue, close this issue.
