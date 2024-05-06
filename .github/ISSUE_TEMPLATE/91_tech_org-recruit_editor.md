@@ -27,7 +27,7 @@ assignees: ''
 
 ### Once an AE is assigned to the paper:
 
-- [ ] Add them to the paper Slack channel.
+- [ ] Add them to the paper Slack channel. (The channel name should be the same as the name of this repo. If you do not have access to this Slack channel yet, let the Tech Chair know at @journalovi/tech-chair.)
 - [ ] Create the following issues and assign them to the editor:
    - [ ] [Initial Editor Setup](new?assignees=&labels=pre-review&projects=&template=70_org_editor-checklist.md&title=%5BPRE-REVIEW%5D+Initial+Editor+Checklist)
    - [ ] [Recruit Reviewers](new?assignees=&labels=pre-review&projects=&template=71_org_editor-recruit_reviewers.md&title=%5BPRE-REVIEW%5D+Recruit+Reviewers)
