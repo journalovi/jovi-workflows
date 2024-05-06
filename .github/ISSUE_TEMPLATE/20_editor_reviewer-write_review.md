@@ -22,3 +22,4 @@ assignees: ''
 
 ### Instructions for Editor
 - Close this issue once the reviewer has submitted their review.
+- If all reviews are complete, please [write your meta-review](new?assignees=&labels=meta-review&projects=&template=21_editor-meta_review.yml&title=%5BDECISION%5D+%3Ctitle%3E) *within 2 weeks* of the receipt of the last review.
