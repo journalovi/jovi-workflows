@@ -20,18 +20,15 @@ assignees: ''
 - Close this issue when all items are complete.
 
 ### Check that the live version of the article contains at least the following information:
-- [ ] Author information
-- [ ] Abstract
+- [ ] Author information (This section might be at the end of the article. This section might be blank if the authors asked to anonymize themselves during the reviewing process.)
+- [ ] Abstract exists and meets the [structured abstract requirement](https://www.journalovi.org/author-guide.html#abstract)
 - [ ] Structure that gives readers an overview and facilitates navigation, such as:
-   - [ ] Table of contents (if the article is text-intensive)
-   - [ ] Link or buttons to different parts of the paper or switching between paper-mode vs. interactive mode
-   - [ ] Some articles (e.g,. narrative visualization) might lend itself to be progressively disclosed without an overview
+    * Table of contents (if the article is text-intensive)
+    * Link or buttons to different parts of the paper or switching between paper-mode vs. interactive mode
+    * Some articles (e.g,. narrative visualization) might lend itself to be progressively disclosed without an overview
 - [ ] The following required sections at the end of the paper, after References:
-   - [ ] Research materials
    - [ ] Authorship
-   - [ ] License
    - [ ] Conflicts of Interest
-
 
 ### When the above checklist is complete:
 - [ ] Respond to authors with initial submission email (cc organizers@journalovi.org): https://docs.google.com/document/d/1OY9Qar7etGE0e300lxBf7b3nVzTPlCehLmbqIH2v2kc/edit
