@@ -17,6 +17,7 @@ assignees: ''
 
 ### Instructions for Editor
 - Send out review requests using the [reviewer invitation email template](https://docs.google.com/document/d/15ttXvQg7g5JEk2Yzfd9eXSN6oIpc_A61qbuwygthuG0/edit?usp=sharing).
+  - Replace "LINK TO REVIEW ISSUE TEMPLATE" in the email with [this link](new?assignees=&labels=review&projects=&template=00_reviewer-review.yml&title=%5BREVIEW%5D+%3Ctitle%3E) (Right click to copy it.)
 - When a reviewer agrees to review, complete the corresponding steps for that reviewer below.
 - Close this issue when all reviewers have been recruited.
 
