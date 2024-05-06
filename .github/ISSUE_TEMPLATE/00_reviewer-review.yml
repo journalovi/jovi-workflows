@@ -31,7 +31,7 @@ body:
     options:
     - label: I declare that I have no known conflicts of interest with the authors.
       required: true
-- type: textarea
+- type: input
   attributes:
     label: Reviewed version
     description: >
@@ -149,7 +149,7 @@ body:
       for the paper.
   validations:
     required: true
-- type: textarea
+- type: input
   attributes:
     label: ORCID
     description: >
