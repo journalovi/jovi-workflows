@@ -1,5 +1,5 @@
 ---
-name: "[Tech Chair -> OM Chair] Open Materials Review"
+name: "[Tech Chair -> Open Practices Chair] Open Materials Review"
 about: Review for Open Materials Chair to fill out
 title: "[REVIEW] Open Materials Review"
 labels: review
