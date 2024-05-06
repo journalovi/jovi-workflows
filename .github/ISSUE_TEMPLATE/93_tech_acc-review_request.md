@@ -16,5 +16,5 @@ assignees: ''
 -->
 
 ### Instructions for Accessibility Chair
-- Please fill out the Accessibility Review issue template and submit it as a review on this repository.
+- Please fill out the [Accessibility Review](new?assignees=&labels=pre-review&projects=&template=93_tech_acc-review_request.md&title=%5BPRE-REVIEW%5D+Accessibility+Review+Request) issue template and submit it as a review on this repository.
 - Once you have created the Accessibility Review issue, close this issue.
