@@ -17,11 +17,10 @@ assignees: ''
 
 ### Instructions for OC
 - If there is anything in the list below that you are unsure of, tag the Tech Chair (@journalovi/tech-chair). Github IDs are listed on [People page](https://www.journalovi.org/people.html).
-- Close this issue when all items are complete.
 
 ### Recruit an AE:
 
-- [ ] Add paper to the AE recruitment spreadsheet
+- [ ] Add paper to the `JoVI submissions` spreadsheet on JoVI Google Drive
 - [ ] Post abstract, author names, link to paper, and a rough summary of the paper application domain and method, and a reminder to check the [ACM COI policy](https://www.acm.org/publications/policies/conflict-of-interest) to:
    - [ ] `#jovi_editors` Slack channel
    - [ ] editors@journalovi.org
@@ -33,3 +32,7 @@ assignees: ''
    - [ ] [Initial Editor Setup](new?assignees=&labels=pre-review&projects=&template=70_org_editor-checklist.md&title=%5BPRE-REVIEW%5D+Initial+Editor+Checklist)
    - [ ] [Recruit Reviewers](new?assignees=&labels=pre-review&projects=&template=71_org_editor-recruit_reviewers.md&title=%5BPRE-REVIEW%5D+Recruit+Reviewers)
 - [ ] If the editor has not done an experimental track paper before, schedule a Zoom meeting with them to go over the process.
+- [ ] Had a Zoom meeting with the AE (or Zoom meeting is not needed)
+
+### Once all checkboxes above are complete
+* The OC assigned to this issue shall close it.
