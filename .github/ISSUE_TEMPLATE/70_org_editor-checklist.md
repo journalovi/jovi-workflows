@@ -20,13 +20,13 @@ assignees: ''
 - Close this issue when all items are complete.
 
 ### Check that the live version of the article contains at least the following information:
-- [ ] Includes author information
-- [ ] Includes abstract
-- [ ] Includes structure that gives readers an overview and facilitates navigation, such as:
+- [ ] Author information
+- [ ] Abstract
+- [ ] Structure that gives readers an overview and facilitates navigation, such as:
    - [ ] Table of contents (if the article is text-intensive)
    - [ ] Link or buttons to different parts of the paper or switching between paper-mode vs. interactive mode
    - [ ] Some articles (e.g,. narrative visualization) might lend itself to be progressively disclosed without an overview
-- [ ] Includes the following required sections at the end of the paper, after References:
+- [ ] The following required sections at the end of the paper, after References:
    - [ ] Research materials
    - [ ] Authorship
    - [ ] License
