@@ -17,12 +17,16 @@ assignees: ''
 
 ### Instructions for Editor
 - Send out review requests using the [reviewer invitation email template](https://docs.google.com/document/d/15ttXvQg7g5JEk2Yzfd9eXSN6oIpc_A61qbuwygthuG0/edit?usp=sharing).
-- When a reviewer agrees to review:
-  1. Create an issue using the *Review Request* Issue template and assign it to the reviewer.
-  2. Check off one of the boxes below and notify your corresponding organizer on the paper Slack channel (or tag them here).
+- When a reviewer agrees to review, complete the corresponding steps for that reviewer below.
 - Close this issue when all reviewers have been recruited.
 
 ### Recruit reviewers:
-- [ ] Reviewer 1 recruited and review request issue created for them.
-- [ ] Reviewer 2 recruited and review request issue created for them.
-- [ ] Reviewer 3 recruited and review request issue created for them.
+- [ ] Reviewer 1 recruited.
+  - [ ] [Review Request Issue](new?assignees=&labels=pre-review&projects=&template=20_editor_reviewer-write_review.md&title=%5BPRE-REVIEW%5D+Review+Request) created and assigned to them.
+  - [ ] Organizer notified on Slack (or tagged here).
+- [ ] Reviewer 2 recruited.
+  - [ ] [Review Request Issue](new?assignees=&labels=pre-review&projects=&template=20_editor_reviewer-write_review.md&title=%5BPRE-REVIEW%5D+Review+Request) created and assigned to them.
+  - [ ] Organizer notified on Slack (or tagged here).
+- [ ] Reviewer 3 recruited.
+  - [ ] [Review Request Issue](new?assignees=&labels=pre-review&projects=&template=20_editor_reviewer-write_review.md&title=%5BPRE-REVIEW%5D+Review+Request) created and assigned to them.
+  - [ ] Organizer notified on Slack (or tagged here)
