@@ -21,11 +21,11 @@ assignees: ''
 - Once authors have provided any missing material (or if no material is missing) and all requirements are met, close this issue.
 
 ### Open Materials Checklist
-- [ ] Check that the paper license is CC-BY
-- [ ] Check that the “Research materials” section in the paper exists.
-- [ ] Check that all links to repositories and materials can be reached.
-- [ ] Check that all materials are in appropriate long-term repositories (e.g. OSF, Zenodo, etc). Non-long-term hosting solutions, such as Github or self-hosted websites, are acceptable only if they are also archived on a long term repository like OSF or Zenodo. One easy way to archive + DOI an existing Github repo is with Zenodo; see [here](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
-- [ ] Check that links to supplements and materials are listed in the following locations:
-   - [ ] abstract (according to the [structured abstract requirement](https://www.journalovi.org/author-guide.html#abstract))
-   - [ ] research material statements section of the paper.
+- [ ] Paper license is CC-BY
+- [ ] The "Research materials" section in the paper exists.
+- [ ] Links to supplements and materials are listed in at least the following locations:
+   - [ ] Abstract (according to the [structured abstract requirement](https://www.journalovi.org/author-guide.html#abstract))
+   - [ ] "Research materials" section of the paper.
+- [ ] All links to repositories and materials in the paper can be reached.
+- [ ] All materials are in repositories that meet the [FAIR principles](https://www.go-fair.org/fair-principles/) (e.g. OSF, Zenodo, etc). Non-long-term hosting solutions, such as Github or self-hosted websites, are acceptable only if they are also archived on a long term repository like OSF or Zenodo. One easy way to archive + DOI an existing Github repo is with Zenodo; see [here](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
 - [ ] Check that all other requirements under the [transparency section of the author guide](https://www.journalovi.org/author-guide.html#transparency-requirements) are fulfilled.
