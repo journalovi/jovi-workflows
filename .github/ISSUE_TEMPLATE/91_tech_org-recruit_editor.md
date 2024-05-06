@@ -31,6 +31,7 @@ assignees: ''
 - [ ] Create the following issues and assign them to the editor:
    - [ ] [Initial Editor Setup](new?assignees=&labels=pre-review&projects=&template=70_org_editor-checklist.md&title=%5BPRE-REVIEW%5D+Initial+Editor+Checklist)
    - [ ] [Recruit Reviewers](new?assignees=&labels=pre-review&projects=&template=71_org_editor-recruit_reviewers.md&title=%5BPRE-REVIEW%5D+Recruit+Reviewers)
+- [ ] In the `JoVI - AEs and Advisory Board` spreadsheet on JoVI Google Drive, increase the tally for the AE in the column "AE-ing"
 - [ ] If the editor has not done an experimental track paper before, schedule a Zoom meeting with them to go over the process.
 - [ ] Had a Zoom meeting with the AE (or Zoom meeting is not needed)
 
