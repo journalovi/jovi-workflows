@@ -34,7 +34,7 @@ body:
       >
 
       > If you did not test a particular item or it is not applicable, do not check it off and explain in the comments.
-- type: textarea
+- type: input
   attributes:
     label: Reviewed version
     description: >
@@ -188,7 +188,7 @@ body:
   validations:
     required: true
 
-- type: textarea
+- type: input
   attributes:
     label: ORCID
     description: >
