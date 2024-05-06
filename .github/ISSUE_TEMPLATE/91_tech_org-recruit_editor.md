@@ -16,7 +16,7 @@ assignees: ''
 -->
 
 ### Instructions for OC
-- If there is anything in the list below that you are unsure of, tag the Tech Chair. Github IDs are listed on [People page](https://www.journalovi.org/people.html).
+- If there is anything in the list below that you are unsure of, tag the Tech Chair (@journalovi/tech-chair). Github IDs are listed on [People page](https://www.journalovi.org/people.html).
 - Close this issue when all items are complete.
 
 ### Recruit an AE:
@@ -30,6 +30,6 @@ assignees: ''
 
 - [ ] Add them to the paper Slack channel.
 - [ ] Create the following issues and assign them to the editor:
-   - [ ] Initial Editor Setup
-   - [ ] Recruit Reviewers
+   - [ ] [Initial Editor Setup](new?assignees=&labels=pre-review&projects=&template=70_org_editor-checklist.md&title=%5BPRE-REVIEW%5D+Initial+Editor+Checklist)
+   - [ ] [Recruit Reviewers](new?assignees=&labels=pre-review&projects=&template=71_org_editor-recruit_reviewers.md&title=%5BPRE-REVIEW%5D+Recruit+Reviewers)
 - [ ] If the editor has not done an experimental track paper before, schedule a Zoom meeting with them to go over the process.
