@@ -19,24 +19,28 @@ assignees: ''
 - Send out review requests using the [reviewer invitation email template](https://docs.google.com/document/d/15ttXvQg7g5JEk2Yzfd9eXSN6oIpc_A61qbuwygthuG0/edit?usp=sharing).
   - Replace "LINK TO REVIEW ISSUE TEMPLATE" in the email with [this link](new?assignees=&labels=review&projects=&template=00_reviewer-review.yml&title=%5BREVIEW%5D+%3Ctitle%3E) (Right click to copy it.)
 - When a reviewer agrees to review, complete the corresponding steps for that reviewer below.
+- If you encounter any problems executing the steps below, mention @journalovi/tech-chair and ask for assistance.
 - Close this issue when all reviewers have been recruited.
 
 ### Recruit reviewers:
 - [ ] Reviewer 1 recruited.
   - [ ] [Review Request Issue](new?assignees=&labels=pre-review&projects=&template=20_editor_reviewer-write_review.md&title=%5BPRE-REVIEW%5D+Review+Request) created and assigned to them.
-  - [ ] Organizer notified on Slack (or tagged here).
+  - [ ] Organizer notified on Slack (or mentioned in a reply here).
   - [ ] Give them **Read** access on this repository:
     - Under *Settings* -> *Collaborators and Teams*, add the Reviewer's Github ID.
     - Ensure their *Role* is **Read**
+  - [ ] In the header at the top of `README.md` in this repository, replace the `TBD` under `R1:` with the Github ID of the reviewer.
 - [ ] Reviewer 2 recruited.
   - [ ] [Review Request Issue](new?assignees=&labels=pre-review&projects=&template=20_editor_reviewer-write_review.md&title=%5BPRE-REVIEW%5D+Review+Request) created and assigned to them.
-  - [ ] Organizer notified on Slack (or tagged here).
+  - [ ] Organizer notified on Slack (or mentioned in a reply here).
   - [ ] Give them **Read** access on this repository:
     - Under *Settings* -> *Collaborators and Teams*, add the Reviewer's Github ID.
     - Ensure their *Role* is **Read**
+  - [ ] In the header at the top of `README.md` in this repository, replace the `TBD` under `R2:` with the Github ID of the reviewer.
 - [ ] Reviewer 3 recruited.
   - [ ] [Review Request Issue](new?assignees=&labels=pre-review&projects=&template=20_editor_reviewer-write_review.md&title=%5BPRE-REVIEW%5D+Review+Request) created and assigned to them.
-  - [ ] Organizer notified on Slack (or tagged here)
+  - [ ] Organizer notified on Slack (or mentioned in a reply here).
   - [ ] Give them **Read** access on this repository:
     - Under *Settings* -> *Collaborators and Teams*, add the Reviewer's Github ID.
     - Ensure their *Role* is **Read**
+  - [ ] In the header at the top of `README.md` in this repository, replace the `TBD` under `R3:` with the Github ID of the reviewer.
