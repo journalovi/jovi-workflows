@@ -17,7 +17,8 @@ assignees: ''
 
 ### Instructions for Editor
 - If there is anything in the list below that you are unsure of, you can reply to this issue (after you created it) and tag the responsible organizers. Organizers' Github IDs are listed on [People page](https://www.journalovi.org/people.html).
-- Close this issue when all items are complete.
+- Privacy notice: Some people prefer to be aware of any data that are tracked. Therefore, we want to remind you that most actions performed on Github are publicly recorded with timestamps (e.g., creating a repository, creating an issue, replying to an issue).
+- Note: Editors should have been assigned separate issues to track reviewer assignments. You should not wait until all of the items below are complete to begin recruiting reviewers.
 
 ### Check that the live version of the article contains at least the following information:
 - [ ] Author information (This section might be at the end of the article. This section might be blank if the authors asked to anonymize themselves during the reviewing process.)
@@ -30,5 +31,9 @@ assignees: ''
    - [ ] Authorship
    - [ ] Conflicts of Interest
 
-### When the above checklist is complete:
+### Notify authors:
 - [ ] Respond to authors with initial submission email (cc organizers@journalovi.org): https://docs.google.com/document/d/1OY9Qar7etGE0e300lxBf7b3nVzTPlCehLmbqIH2v2kc/edit
+- [ ] If any of the items in the above checklist are not present in the paper, [mention](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams) the authors on this issue and ask them to update the paper.
+
+### When all of the above checklists are complete:
+- The Associate Editor shall close this issue.
