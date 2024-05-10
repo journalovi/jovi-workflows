@@ -5,16 +5,17 @@
 ## changed, so any other edits will be overwritten. To update this file, make
 ## a commit or pull request at https://github.com/journalovi/jovi-workflows
 
-name: Review
+name: "[Reviewer] Review"
 description: Provide a review for this paper
 title: "[REVIEW] <title>"
-labels: [Review]
+labels: [review]
 body:
 - type: markdown
   attributes:
     value: >
-      Please read the [JoVI Reviewer Guidelines](https://www.journalovi.org/reviewer-guide.html)
-      before writing your review.
+      > [!IMPORTANT]
+      
+      > Please read the [JoVI Reviewer Guidelines](https://www.journalovi.org/reviewer-guide.html) before writing your review.
 
 
       As this is the [experimental track](https://www.journalovi.org/submit.html#experimental),
@@ -30,7 +31,7 @@ body:
     options:
     - label: I declare that I have no known conflicts of interest with the authors.
       required: true
-- type: textarea
+- type: input
   attributes:
     label: Reviewed version
     description: >
@@ -118,7 +119,7 @@ body:
 
       We are experimenting with an "endorsement" model on this track of JoVI.
       You will see that one of the options below is labeled "Endorse", which you can choose to
-      recommend if you think that no futher changes are required and you are ready to endorse this paper.
+      recommend if you think that no further changes are required and you are ready to endorse this paper.
       Your final decision to endorse or not endorse the paper will be published along with
       the paper.
 
@@ -148,7 +149,7 @@ body:
       for the paper.
   validations:
     required: true
-- type: textarea
+- type: input
   attributes:
     label: ORCID
     description: >
