@@ -17,7 +17,7 @@ assignees: ''
 
 ### Instructions for Open Practices Chair
 - If there is anything in the list below that you are unsure of, you can reply to this issue (after it has been created) and tag the responsible organizers. Organizers' Github IDs are listed on [People page](https://www.journalovi.org/people.html).
-- If anything in the below list is missing (e.g. required paper sections, supplemental materials, etc), tag the authors on this issue and ask them to add those materials.
+- If anything in the below list is missing (e.g. required paper sections, supplemental materials, etc), [mention](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams) the authors on this issue and ask them to add those materials. Authors' Github IDs are listed at the top of `README.md`.
 - Once authors have provided any missing material (or if no material is missing) and all requirements are met, close this issue.
 
 ### Open Materials Checklist
