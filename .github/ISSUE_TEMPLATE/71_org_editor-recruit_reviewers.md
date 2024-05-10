@@ -20,7 +20,6 @@ assignees: ''
   - Replace "LINK TO REVIEW ISSUE TEMPLATE" in the email with [this link](new?assignees=&labels=review&projects=&template=00_reviewer-review.yml&title=%5BREVIEW%5D+%3Ctitle%3E) (Right click to copy it.)
 - When a reviewer agrees to review, complete the corresponding steps for that reviewer below.
 - If you encounter any problems executing the steps below, mention @journalovi/tech-chair and ask for assistance.
-- Close this issue when all reviewers have been recruited.
 
 ### Recruit reviewers:
 - [ ] Reviewer 1 recruited.
@@ -44,3 +43,6 @@ assignees: ''
     - Under *Settings* -> *Collaborators and Teams*, add the Reviewer's Github ID.
     - Ensure their *Role* is **Read**
   - [ ] In the header at the top of `README.md` in this repository, replace the `TBD` under `R3:` with the Github ID of the reviewer.
+
+### Once all reviewers have been recruited
+- The AE shall close this issue.
