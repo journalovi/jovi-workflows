@@ -60,8 +60,14 @@ assignees: ''
    ````
    ```diff
    ! This paper is under review on the experimental track of the Journal of Visualization and Interaction.
+   OC: TBD
+   AE: TBD
+   R1: TBD
+   R2: TBD
+   R3: TBD
    ```
    ````
+- [ ] When an OC has been assigned to this paper, replace the `TBD` under `OC:` in `README.md` with the Github ID of the OC.
 - [ ] Enable branch protection on the repository:
    - [ ] Under Settings -> Branches, click "Add branch protection rule"
    - [ ] Under "Branch name pattern", enter "main" or "master" (whichever applies to this repo)
