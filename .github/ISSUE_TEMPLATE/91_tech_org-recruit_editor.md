@@ -31,6 +31,7 @@ assignees: ''
 - [ ] Give them **Admin** access on this repository:
    - Under *Settings* -> *Collaborators and Teams*, add the Associate Editor's Github ID. Github IDs for Associate Editors can be found on the internal JoVI Editor spreadsheet.
    - Ensure their *Role* is **Admin**
+- [ ] In the header at the top of `README.md` in this repository, replace the `TBD` under `AE:` with the Github ID of the AE.
 - [ ] Create the following issues and assign them to the editor:
    - [ ] [Initial Editor Setup](new?assignees=&labels=pre-review&projects=&template=70_org_editor-checklist.md&title=%5BPRE-REVIEW%5D+Initial+Editor+Checklist)
    - [ ] [Recruit Reviewers](new?assignees=&labels=pre-review&projects=&template=71_org_editor-recruit_reviewers.md&title=%5BPRE-REVIEW%5D+Recruit+Reviewers)
