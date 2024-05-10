@@ -23,26 +23,26 @@ assignees: ''
 
 ### Recruit reviewers:
 - [ ] Reviewer 1 recruited.
-  - [ ] [Review Request Issue](new?assignees=&labels=pre-review&projects=&template=20_editor_reviewer-write_review.md&title=%5BPRE-REVIEW%5D+Review+Request) created and assigned to them.
-  - [ ] Organizer notified on Slack (or mentioned in a reply here).
-  - [ ] Give them **Read** access on this repository:
+  - [ ] Give the reviewer **Read** access on this repository:
     - Under *Settings* -> *Collaborators and Teams*, add the Reviewer's Github ID.
     - Ensure their *Role* is **Read**
   - [ ] In the header at the top of `README.md` in this repository, replace the `TBD` under `R1:` with the Github ID of the reviewer.
-- [ ] Reviewer 2 recruited.
-  - [ ] [Review Request Issue](new?assignees=&labels=pre-review&projects=&template=20_editor_reviewer-write_review.md&title=%5BPRE-REVIEW%5D+Review+Request) created and assigned to them.
+  - [ ] Create a [Review Request Issue](new?assignees=&labels=pre-review&projects=&template=20_editor_reviewer-write_review.md&title=%5BPRE-REVIEW%5D+Review+Request) and [assign](https://docs.github.com/en/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users#assigning-an-individual-issue-or-pull-request) the reviewer to it.
   - [ ] Organizer notified on Slack (or mentioned in a reply here).
-  - [ ] Give them **Read** access on this repository:
+- [ ] Reviewer 2 recruited.
+  - [ ] Give the reviewer **Read** access on this repository:
     - Under *Settings* -> *Collaborators and Teams*, add the Reviewer's Github ID.
     - Ensure their *Role* is **Read**
   - [ ] In the header at the top of `README.md` in this repository, replace the `TBD` under `R2:` with the Github ID of the reviewer.
-- [ ] Reviewer 3 recruited.
-  - [ ] [Review Request Issue](new?assignees=&labels=pre-review&projects=&template=20_editor_reviewer-write_review.md&title=%5BPRE-REVIEW%5D+Review+Request) created and assigned to them.
+  - [ ] Create a [Review Request Issue](new?assignees=&labels=pre-review&projects=&template=20_editor_reviewer-write_review.md&title=%5BPRE-REVIEW%5D+Review+Request) and [assign](https://docs.github.com/en/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users#assigning-an-individual-issue-or-pull-request) the reviewer to it.
   - [ ] Organizer notified on Slack (or mentioned in a reply here).
-  - [ ] Give them **Read** access on this repository:
+- [ ] Reviewer 3 recruited.
+  - [ ] Give the reviewer **Read** access on this repository:
     - Under *Settings* -> *Collaborators and Teams*, add the Reviewer's Github ID.
     - Ensure their *Role* is **Read**
   - [ ] In the header at the top of `README.md` in this repository, replace the `TBD` under `R3:` with the Github ID of the reviewer.
+  - [ ] Create a [Review Request Issue](new?assignees=&labels=pre-review&projects=&template=20_editor_reviewer-write_review.md&title=%5BPRE-REVIEW%5D+Review+Request) and [assign](https://docs.github.com/en/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users#assigning-an-individual-issue-or-pull-request) the reviewer to it.
+  - [ ] Organizer notified on Slack (or mentioned in a reply here).
 
 ### Once all reviewers have been recruited
 - The AE shall close this issue.
