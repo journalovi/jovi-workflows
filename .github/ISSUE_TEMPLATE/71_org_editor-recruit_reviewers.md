@@ -25,9 +25,18 @@ assignees: ''
 - [ ] Reviewer 1 recruited.
   - [ ] [Review Request Issue](new?assignees=&labels=pre-review&projects=&template=20_editor_reviewer-write_review.md&title=%5BPRE-REVIEW%5D+Review+Request) created and assigned to them.
   - [ ] Organizer notified on Slack (or tagged here).
+  - [ ] Give them **Read** access on this repository:
+    - Under *Settings* -> *Collaborators and Teams*, add the Reviewer's Github ID.
+    - Ensure their *Role* is **Read**
 - [ ] Reviewer 2 recruited.
   - [ ] [Review Request Issue](new?assignees=&labels=pre-review&projects=&template=20_editor_reviewer-write_review.md&title=%5BPRE-REVIEW%5D+Review+Request) created and assigned to them.
   - [ ] Organizer notified on Slack (or tagged here).
+  - [ ] Give them **Read** access on this repository:
+    - Under *Settings* -> *Collaborators and Teams*, add the Reviewer's Github ID.
+    - Ensure their *Role* is **Read**
 - [ ] Reviewer 3 recruited.
   - [ ] [Review Request Issue](new?assignees=&labels=pre-review&projects=&template=20_editor_reviewer-write_review.md&title=%5BPRE-REVIEW%5D+Review+Request) created and assigned to them.
   - [ ] Organizer notified on Slack (or tagged here)
+  - [ ] Give them **Read** access on this repository:
+    - Under *Settings* -> *Collaborators and Teams*, add the Reviewer's Github ID.
+    - Ensure their *Role* is **Read**
