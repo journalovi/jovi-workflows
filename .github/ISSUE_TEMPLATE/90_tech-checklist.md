@@ -60,6 +60,7 @@ assignees: ''
    ````
    ```diff
    ! This paper is under review on the experimental track of the Journal of Visualization and Interaction.
+   Authors: [insert Github IDs]
    OC: TBD
    AE: TBD
    R1: TBD
@@ -67,6 +68,7 @@ assignees: ''
    R3: TBD
    ```
    ````
+- [ ] Replace `[insert Github IDs]` in `README.md` with the authors' Github IDs.
 - [ ] When an OC has been assigned to this paper, replace the `TBD` under `OC:` in `README.md` with the Github ID of the OC.
 - [ ] Enable branch protection on the repository:
    - [ ] Under Settings -> Branches, click "Add branch protection rule"
